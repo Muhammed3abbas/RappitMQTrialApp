@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WE POC\\RappitMQ\\RabbitMQExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7705C-B257-4164-A5C4-159C7638D20C}|..\\..\\RabbitMQDBTransfer\\RabbitMQDBTransfer.csproj|d:\\we poc\\rabbitmqdbtransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7705C-B257-4164-A5C4-159C7638D20C}|..\\..\\RabbitMQDBTransfer\\RabbitMQDBTransfer.csproj|d:\\we poc\\rabbitmqdbtransfer\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7705C-B257-4164-A5C4-159C7638D20C}|..\\..\\RabbitMQDBTransfer\\RabbitMQDBTransfer.csproj|d:\\we poc\\rabbitmqdbtransfer\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7705C-B257-4164-A5C4-159C7638D20C}|..\\..\\RabbitMQDBTransfer\\RabbitMQDBTransfer.csproj|d:\\we poc\\rabbitmqdbtransfer\\dataretriever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataRetriever.cs",
+              "DocumentMoniker": "D:\\WE POC\\RabbitMQDBTransfer\\DataRetriever.cs",
+              "RelativeDocumentMoniker": "..\\..\\RabbitMQDBTransfer\\DataRetriever.cs",
+              "ToolTip": "D:\\WE POC\\RabbitMQDBTransfer\\DataRetriever.cs",
+              "RelativeToolTip": "..\\..\\RabbitMQDBTransfer\\DataRetriever.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:13:21.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WE POC\\RabbitMQDBTransfer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\RabbitMQDBTransfer\\Program.cs",
+              "ToolTip": "D:\\WE POC\\RabbitMQDBTransfer\\Program.cs",
+              "RelativeToolTip": "..\\..\\RabbitMQDBTransfer\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:12:06.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "D:\\WE POC\\RabbitMQDBTransfer\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "..\\..\\RabbitMQDBTransfer\\RabbitMQConsumer.cs",
+              "ToolTip": "D:\\WE POC\\RabbitMQDBTransfer\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "..\\..\\RabbitMQDBTransfer\\RabbitMQConsumer.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAUwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:11:25.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "D:\\WE POC\\RabbitMQDBTransfer\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "..\\..\\RabbitMQDBTransfer\\RabbitMQProducer.cs",
+              "ToolTip": "D:\\WE POC\\RabbitMQDBTransfer\\RabbitMQProducer.cs",
+              "RelativeToolTip": "..\\..\\RabbitMQDBTransfer\\RabbitMQProducer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv0cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:11:00.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
